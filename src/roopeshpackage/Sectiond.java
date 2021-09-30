@@ -22,10 +22,8 @@ if(a==0)
 	System.out.println("hello");
 	
 }
-else if(a==10)
+else if(a<=10)
 	System.out.println("roopesh");
-else
-	System.out.println("war reddy");
 
 	}
 

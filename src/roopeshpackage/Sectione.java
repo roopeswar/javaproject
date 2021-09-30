@@ -10,9 +10,9 @@ public class Sectione {
 			System.out.println("roopesh");
 			i++;
 		}
-	Sectione t1 =new Sectione();
-	 t1.m1();
-		
+	
+	  Sectione t1=new Sectione();
+			  t1.m1();
  
 	} 
 public static void m1() {
@@ -22,7 +22,7 @@ public static void m1() {
 		System.out.println("war reddy");
 		_n++;
 	} 
-	while(_n>20);
+	while(_n<20);
 		
 	}
 }
